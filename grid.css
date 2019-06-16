@@ -59,11 +59,17 @@
   }
 }
 
+@media(min-width: 992px){
+  .col-4{
+    width: 24.9000%;
+  }
+}
+
 
 
 /* tres colunas */
 
-@media(min-width: 480px){
+@media(min-width: 992px){
   .col-3{
     width: 33.28%;
   }
